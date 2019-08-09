@@ -36,10 +36,11 @@ Some emails that can be used:
 
 1. Unzip  backend_challenge folder and navigate to project folder
 2. npm install sails -g
-3. npm install jsonwebtoken      (optional, incase something wents wrong)
-4. npm install xmlhttprequest    (optional, incase something wents wrong)
-5. npm install node-localstorage (optional, incase something wents wrong)
-6. sails lift
+3. npm install
+4. npm install jsonwebtoken      (optional, incase something wents wrong)
+5. npm install xmlhttprequest    (optional, incase something wents wrong)
+6. npm install node-localstorage (optional, incase something wents wrong)
+7. sails lift
 
 ****Every API except /login and /users requires a token in its header.**
 
