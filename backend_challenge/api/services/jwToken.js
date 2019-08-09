@@ -10,7 +10,7 @@ module.exports = {
       payload,
       tokenSecret, // Token Secret that we sign it with
       {
-        expiresIn: "620 minutes" // Token Expire time
+        expiresIn: "60 minutes" // Token Expire time
       });
   },
 
