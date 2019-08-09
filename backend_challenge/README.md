@@ -1,10 +1,10 @@
-#### Backend Challenge 
+### Backend Challenge 
 
 
 #### Framework Used
 **Sails.js**: Forms MVC structures and useful in terms of automatically generating REST APIs from the models. It is build upon Node.js
 
-####Routes/Endpoints with function mapping 
+#### Routes/Endpoints with function mapping 
 
 **Host** - localhost:1337
 
@@ -18,7 +18,7 @@
 
 ****Every API except /login and /users requires a token in its header.**
 
-####Authentication 
+#### Authentication 
 
 JSON Web Tokens (JWT) for securing the REST APIs and authentication is used.
 With every API call, a token in header need to be passed, which is generated using /login api.
@@ -32,7 +32,7 @@ Some emails that can be used:
 - Nathan@yesenia.net
 
 
-####Instructions to run
+#### Instructions to run
 
 1. Unzip  A2_Narang_Shubham folder and navigate to project folder
 2. npm install sails -g
@@ -43,7 +43,7 @@ Some emails that can be used:
 
 ****Every API except /login and /users requires a token in its header.**
 
-####Instruction to generate Token
+#### Instruction to generate Token
 
 API - http://localhost:1337/login
 Type - POST
@@ -56,7 +56,7 @@ Body (JSON)-
 }
 ```
 
-######Author
+###### Author
 
 Name - Shubham Narang
 Email - sh848786@gmail.com
