@@ -34,7 +34,7 @@ Some emails that can be used:
 
 #### Instructions to run
 
-1. Unzip  A2_Narang_Shubham folder and navigate to project folder
+1. Unzip  backend_challenge folder and navigate to project folder
 2. npm install sails -g
 3. npm install jsonwebtoken      (optional, incase something wents wrong)
 4. npm install xmlhttprequest    (optional, incase something wents wrong)
